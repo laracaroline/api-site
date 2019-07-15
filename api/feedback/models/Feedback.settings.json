@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "feedback",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "nome": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "mensagem": {
+      "type": "text"
+    }
+  }
+}

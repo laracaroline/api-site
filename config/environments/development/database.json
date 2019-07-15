@@ -1,0 +1,19 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-mongoose",
+      "settings": {
+        "client": "mongo",
+        "host": "ds133187.mlab.com",
+        "port": "33187",
+        "database": "heroku_pkmv38tj",
+        "username": "apisite",
+        "password": "lc020290"
+      },
+      "options": {
+        "authenticationDatabase": "heroku_pkmv38tj"
+      }
+    }
+  }
+}
